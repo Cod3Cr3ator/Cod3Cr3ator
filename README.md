@@ -20,9 +20,9 @@ Writing code is like writing poetry, but with fewer feelings.
 - 🧰 Tools: Git, VS Code, Postman
 
 ## 📫 Let's Connect
-- Email: elvismutuma12@gmail.com
-- What'sapp: https://wa.me/qr/5PUJ7IC4RURAL1
-- LinkedIn: [linkedin.com/in/elvismutuma](https://linkedin.com/in/elvismutuma) 
+- 📧Email: elvismutuma12@gmail.com
+- 💬What'sapp: https://wa.me/qr/5PUJ7IC4RURAL1
+- 🔗LinkedIn: [linkedin.com/in/elvismutuma](https://linkedin.com/in/elvismutuma) 
 
 ---
 
